@@ -15,7 +15,11 @@ var app = {
 
     initialize: function() {
     var self = this;
+<<<<<<< HEAD
     this.store = new MemoryStore(function() {
+=======
+    this.store = new LocalStorageStore(function() {
+>>>>>>> 8b39a0276bc2c88442c379f0166f7f380b9f986e
         self.renderHomeView();
     });
 }
