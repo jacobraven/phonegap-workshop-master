@@ -1,0 +1,426 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mcr",
+				"mcrypt_create_iv"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"int",
+				"input"
+			],
+			[
+				"pass",
+				"password_again"
+			],
+			[
+				"password",
+				"password"
+			],
+			[
+				"val",
+				"validate"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"reut",
+				"return"
+			],
+			[
+				"_q",
+				"_query"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"htm",
+				"htmlentities"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"tot",
+				"total_chlorine"
+			],
+			[
+				"fr",
+				"free_chlorine"
+			],
+			[
+				"da",
+				"date"
+			],
+			[
+				"com",
+				"combinedChlorine"
+			],
+			[
+				"comb",
+				"combinedChlorine"
+			],
+			[
+				"fre",
+				"freeChlorine"
+			],
+			[
+				"data",
+				"dataString"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"t",
+				"table	Tag"
+			],
+			[
+				"mysqli_f",
+				"mysqli_fetch_array"
+			],
+			[
+				"ph",
+				"ph"
+			],
+			[
+				"cal",
+				"calcium"
+			],
+			[
+				"Free",
+				"free_chlorine"
+			],
+			[
+				"fo",
+				"for	Attr"
+			],
+			[
+				"i",
+				"if	if"
+			],
+			[
+				"e",
+				"elseif	elseif …"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"l",
+				"label	Tag"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"spacin",
+				"letter-spacing"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"bor",
+				"border-spacing"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"Aqua",
+				"aqua"
+			],
+			[
+				"aqua",
+				"aqua"
+			],
+			[
+				"about",
+				"about"
+			],
+			[
+				"te",
+				"text-decoration"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/login/register.php",
+		"/C/xampp/htdocs/login/classes/Hash.php",
+		"/C/xampp/htdocs/login/index.php",
+		"/C/xampp/htdocs/login/classes/User.php",
+		"/C/xampp/htdocs/login/core/init.php",
+		"/C/xampp/htdocs/login/classes/Token.php",
+		"/C/xampp/htdocs/login/classes/Session.php",
+		"/C/xampp/htdocs/test.html",
+		"/C/xampp/htdocs/login/classes/Input.php",
+		"/C/xampp/htdocs/login/classes/Validate.php",
+		"/C/xampp/htdocs/login/functions/sanitize.php",
+		"/C/xampp/htdocs/login/classes/DB.php",
+		"/C/xampp/htdocs/login/classes/Config.php",
+		"/C/Users/swimtim2452/AppData/Roaming/Sublime Text 3/Packages/User/php.xml",
+		"/C/xampp/htdocs/login/includes/errors/404.php",
+		"/C/Users/swimtim2452/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/login/classes/Validation.php",
+		"/C/xampp/htdocs/login/classes/Redirect.php",
+		"/C/xampp/htdocs/login/classes/Cookie.php",
+		"/C/xampp/htdocs/login/changepassword.php",
+		"/C/xampp/htdocs/login/update.php",
+		"/C/xampp/htdocs/login/profile.php",
+		"/C/xampp/htdocs/login/logout.php",
+		"/C/xampp/htdocs/login/login.php",
+		"/C/xampp/htdocs/PoolLog/index.php",
+		"/C/xampp/htdocs/PoolLog/bin/insertPoolReadings.php",
+		"/C/xampp/htdocs/PoolLog/css/style.css",
+		"/C/xampp/htdocs/PoolLog/register.php",
+		"/C/xampp/htdocs/PoolLog/htconfig/dbConnect.php",
+		"/C/xampp/htdocs/PoolLog/htconfig/dbCreate.php",
+		"/C/xampp/htdocs/PoolLog/Model/insertPoolReadings.php",
+		"/C/Users/swimtim2452/Google Drive/HTML/PoolLog/register.php",
+		"/C/Users/swimtim2452/Google Drive/HTML/PoolLog/index.php",
+		"/C/xampp/htdocs/css/style.css",
+		"/C/xampp/htdocs/inc/header.php",
+		"/C/xampp/htdocs/funrun.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/inc/footer.php",
+		"/C/xampp/htdocs/classes.php",
+		"/C/xampp/htdocs/css/grid.css",
+		"/C/xampp/htdocs/about.php",
+		"/C/xampp/htdocs/aqua.php",
+		"/C/xampp/htdocs/contactus.php",
+		"/C/xampp/htdocs/facil.php",
+		"/C/xampp/htdocs/gallery.php",
+		"/C/xampp/htdocs/squad.php",
+		"/C/xampp/htdocs/includes/nav.php",
+		"/C/Users/swimtim2452/Google Drive/HTML/Pool/index.php",
+		"/C/Users/swimtim2452/Google Drive/HTML/Pool/gallery.php",
+		"/C/Users/swimtim2452/Google Drive/HTML/Pool/funrun.php",
+		"/C/Users/swimtim2452/Google Drive/HTML/Pool/facil.php",
+		"/C/Users/swimtim2452/Google Drive/HTML/Pool/contactus.php",
+		"/C/Users/swimtim2452/Google Drive/HTML/Pool/aqua.php",
+		"/C/Users/swimtim2452/Google Drive/HTML/Pool/about.php",
+		"/C/Users/swimtim2452/Google Drive/HTML/Pool/lts.php",
+		"/C/Users/swimtim2452/Google Drive/HTML/Pool/squad.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"20deg",
+			"banner",
+			"width",
+			"<h4>About Us</h4>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"lts.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 92.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
